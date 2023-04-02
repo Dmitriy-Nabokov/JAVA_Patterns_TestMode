@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ilg9ktk85ibqxk7e/branch/main?svg=true)](https://ci.appveyor.com/project/Dmitriy-Nabokov/java-patterns-testmode/branch/main)
